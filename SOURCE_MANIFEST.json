@@ -1,0 +1,512 @@
+[
+  {
+    "path": ".env.example",
+    "bytes": 115,
+    "sha256": "19309cb7e75d67220b664883deb1cf1536974cd402ade44a689a20ab9ee695d5"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 210,
+    "sha256": "53fe2cfd4e955c9f7b02b2a4f301196cf78ff2bc3d628584b83bd2131982c053"
+  },
+  {
+    "path": "arduino/i2c_scanner/i2c_scanner.ino",
+    "bytes": 1015,
+    "sha256": "659f04301de9c839e4978c3fdb71b6d5723c4bccd150cf975ff0302af752df7f"
+  },
+  {
+    "path": "arduino/left_aux_tx/left_aux_tx.ino",
+    "bytes": 3833,
+    "sha256": "54fffd27ad32efed46a8ac85b247e40c08f6ffa4b3044cebda40bc15c05a4a03"
+  },
+  {
+    "path": "arduino/left_ble_slave/left_ble_slave.ino",
+    "bytes": 3406,
+    "sha256": "70f09374966a35e6921ebb282a904e9d2511f877e3b96e73cb1d56e5b16a574d"
+  },
+  {
+    "path": "arduino/README.md",
+    "bytes": 5113,
+    "sha256": "aeae40728a6e2cf6a8c9bf6949e0bf7533c542dd12abdf4cf6586d317c096a8b"
+  },
+  {
+    "path": "arduino/README_OLED中文方案.md",
+    "bytes": 2036,
+    "sha256": "1a5ed725e2a24d9f1b4aeb94d7acbc7f3807b5f5a96d4507dda115322cfcf86b"
+  },
+  {
+    "path": "arduino/right_ble_master/right_ble_master.ino",
+    "bytes": 12440,
+    "sha256": "a977707d61f50642de11e119e460f713330f2dfa5e785d605d0c50ffd2342537"
+  },
+  {
+    "path": "arduino/right_ble_master_v2/right_ble_master_v2.ino",
+    "bytes": 12618,
+    "sha256": "b21964bf8d670f57c0b908663cab3b7dc45e1a61d19c5850d720d453f3c2cd43"
+  },
+  {
+    "path": "arduino/right_master/right_master.ino",
+    "bytes": 11688,
+    "sha256": "ffcb6aeeee87504d1759044c0a6e3f894a0169bfa9cf887c4dcd19541d548871"
+  },
+  {
+    "path": "arduino/right_master_lite/right_master_lite.ino",
+    "bytes": 8113,
+    "sha256": "04c7c1a98213bae36970ebef0fb4df6257dde25e7b173941b650ab177d09a4c4"
+  },
+  {
+    "path": "arduino/right_master_lite_jelly/right_master_lite_jelly.ino",
+    "bytes": 9772,
+    "sha256": "e22431b103bf5c839650859bd6989847333539bfa25bfef72bb1085d51b7d908"
+  },
+  {
+    "path": "arduino/right_master_prd_feedback_fixed/right_master_prd_feedback_fixed.ino",
+    "bytes": 12899,
+    "sha256": "11aba40c322b7a3ca0a4c79a9b0e4c838b243502841d878c0e9a9ae72063225b"
+  },
+  {
+    "path": "arduino/right_master_prd_feedback（通信失效）/right_master_prd_feedback.ino",
+    "bytes": 11288,
+    "sha256": "a2555dfc3fd78a2ba992079301e3a8dcf4508fe823274df6d2df9d490fc2c236"
+  },
+  {
+    "path": "ble通信（随机性很强）.py",
+    "bytes": 2538,
+    "sha256": "81725eb73962c02e624c7df471fb5c700147740835e3e252251b2900704f6a3f"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1068,
+    "sha256": "6883e608111a9cc3d3581cc17886d4deb8e097dfcd25bc2a06fcdd70e7b67738"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1821,
+    "sha256": "6dc7bb144af6c08e6d5de5a4bf845909ef3ab906824b468c38732a2fd03bb9ab"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 148,
+    "sha256": "4c31fe1b631fbad7c1743b3f2d1f53ae119cc55931f0cf8c2cab096eb49ef810"
+  },
+  {
+    "path": "tools/offline_gesture_check.py",
+    "bytes": 1324,
+    "sha256": "9d8c8ae53798e126958aaa3f89dbacbfe540fb6ab41ad7975f7f9ac8a560df46"
+  },
+  {
+    "path": "声音识别/ble_glove_controller.py",
+    "bytes": 15574,
+    "sha256": "84e1ef36a226169da0211f859a287a1f2d00a83c8992da04b483a462533f556b"
+  },
+  {
+    "path": "声音识别/ble_send_once.py",
+    "bytes": 3981,
+    "sha256": "92ea5dd6e890c072de17c754ae88c9716a3a7af0bdb8568a0c5d28f496d6d486"
+  },
+  {
+    "path": "声音识别/ble_worker.py",
+    "bytes": 6261,
+    "sha256": "965508ea975e81f4c5f81686944f2258d2ecdbe3d69ffb7c0b95c8a8749fc103"
+  },
+  {
+    "path": "声音识别/README.md",
+    "bytes": 4132,
+    "sha256": "cee240b20cc514b9230e71338a079d71b2949d6006718c376f77ea85a4c33da5"
+  },
+  {
+    "path": "声音识别/vocie_llm_combination_prd_ble.py",
+    "bytes": 13498,
+    "sha256": "cb00886222f34599a9556307a524407e29fcc4e36834d987ec217da7fbcd0519"
+  },
+  {
+    "path": "声音识别/voice_demo.py",
+    "bytes": 22064,
+    "sha256": "18a82a2a42e93b44c3859e7f3eb95bd869943f30cd965dd188bc3374385ebf9f"
+  },
+  {
+    "path": "声音识别/voice_train.py",
+    "bytes": 10542,
+    "sha256": "e02af6bdcc761061783078d23c446918afce16de014b3dbf9fad6b3eee75c65f"
+  },
+  {
+    "path": "声音识别/web_control.py",
+    "bytes": 33595,
+    "sha256": "546366d803cf8599e92c500ad760b089543ea6feec3656d843b3c03431d58ff5"
+  },
+  {
+    "path": "手语识别/ble_gesture_collector.py",
+    "bytes": 8928,
+    "sha256": "ea1afaf0726771861a3b9b7b473f6ddc39574a8b1a21cf84260e9f1df5160bda"
+  },
+  {
+    "path": "手语识别/ble_gesture_collector_video.py",
+    "bytes": 8949,
+    "sha256": "54500dbac55e14df758f45fa2135cbff9d394a69d99244f31830825139df4b7e"
+  },
+  {
+    "path": "手语识别/ble_gesture_predict.py",
+    "bytes": 8166,
+    "sha256": "baf15188807766f59a2d6b3ef061617fa76e5411c7413a725b7807d82ee1b161"
+  },
+  {
+    "path": "手语识别/ble_gesture_predict_video.py",
+    "bytes": 8178,
+    "sha256": "dac763c285ea972652db29cd5c25927fd6471b7086feb5f017270bbf36be821b"
+  },
+  {
+    "path": "手语识别/gesture_labels.json",
+    "bytes": 102,
+    "sha256": "1f60bfd9190fd4ac1c225c458d9d62f02a1664264ec2007ecdc19512d4478589"
+  },
+  {
+    "path": "手语识别/gesture_labels_video.json",
+    "bytes": 107,
+    "sha256": "19bfbd7a8ec06a3a4f9bad36239503f676d752a1bde46f282bcb72315834d6f9"
+  },
+  {
+    "path": "手语识别/README.md",
+    "bytes": 2848,
+    "sha256": "6359a022e7763bc67e05ec17756146df3716f464b8cba8030de3be5b1d7b2eee"
+  },
+  {
+    "path": "手语识别/README_video_gesture.md",
+    "bytes": 2010,
+    "sha256": "f7ed2d56127af5f0686ba08b047ce6b6368395f199b0ca5a77a2da8285564fb3"
+  },
+  {
+    "path": "手语识别/train_gesture_model.py",
+    "bytes": 4394,
+    "sha256": "ff80d2dee178da3f12e16e75f999e4e71ddfdc22381e961ed150f1be2f8b0d4a"
+  },
+  {
+    "path": "手语识别/train_gesture_model_video.py",
+    "bytes": 4406,
+    "sha256": "1f58665cd0a8726d954690ef7198acaf363342ad2f7c8b376089931ec1a168b5"
+  },
+  {
+    "path": "综合演示/ble_glove_controller.py",
+    "bytes": 15574,
+    "sha256": "84e1ef36a226169da0211f859a287a1f2d00a83c8992da04b483a462533f556b"
+  },
+  {
+    "path": "综合演示/demo_main.py",
+    "bytes": 4117,
+    "sha256": "a2cd1e7ee7306e87f40cc055d95ca866d1d27cdbc2e1021f2db09c306b5d1502"
+  },
+  {
+    "path": "综合演示/README.md",
+    "bytes": 3703,
+    "sha256": "871fa2ee0b089b15365bcd12086feb47d6fb4803fb20b10b5fe71558efd0dbc5"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/make_oled_bitmaps.py",
+    "bytes": 2977,
+    "sha256": "d34d2c91dbdcaf335e5c06a78848ccd1271eb38af9577153afcbddd46b0127bb"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/make_oled_bitmaps_story.py",
+    "bytes": 2761,
+    "sha256": "b527d5ad06f652116828caf708aa60b2e643863e0ccc69273e3bee9c18cd1662"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/make_oled_mother_lines.py",
+    "bytes": 2797,
+    "sha256": "cb8af1cb8cd2667a5bfb0a4d5daab9fbca84e90a68484c42fc50d0f47d67127d"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/make_oled_story_sentences.py",
+    "bytes": 3213,
+    "sha256": "62fa0930daab3e295e3127f1506ab0f33b2391c17d6c653002f88e80c7f383d9"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_chinese_demo/oled_chinese_demo.ino",
+    "bytes": 1975,
+    "sha256": "efa3a94c5bff3ffa1a2ccf6062d85ce2225a04bb2e04a485370a72c0c54eb5b0"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_chinese_demo/oled_zh_words.h",
+    "bytes": 3048,
+    "sha256": "31fd06bafc7c603a7d0acf6b210a6229da5d4a97984cb7b9b9ef737b01b15312"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_mother_lines.h",
+    "bytes": 13051,
+    "sha256": "80bcd54180888c4d0bf96cfd2a9b96a7856cd9c438c79d0a3d31af2da5dd0d74"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_mother_lines_demo/oled_mother_lines.h",
+    "bytes": 13051,
+    "sha256": "80bcd54180888c4d0bf96cfd2a9b96a7856cd9c438c79d0a3d31af2da5dd0d74"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_mother_lines_demo/oled_mother_lines_demo.ino",
+    "bytes": 7205,
+    "sha256": "bfc4b6fc5685c467a1b7963ac55cfe21ee521aacfc5494da7cf349573fe61a28"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_story_jelly_demo/oled_story_jelly_demo.ino",
+    "bytes": 7513,
+    "sha256": "5436cd0280702a161f0d3d0926e09d50c9b5e6ee6dd89fcea42b6729dd276406"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_story_jelly_demo/oled_story_words.h",
+    "bytes": 7178,
+    "sha256": "31e376664d66dc7182b17d2447a1b49477ba22675d9ae154e115914b6a4418d6"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_story_jelly_sentence_demo/oled_story_jelly_sentence_demo.ino",
+    "bytes": 9416,
+    "sha256": "349e8d7457609320ee2ce51dc2968561ceb2e0ae75a5914a38f69c3390d45fca"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_story_jelly_sentence_demo/oled_story_sentences.h",
+    "bytes": 29717,
+    "sha256": "2e7fef840bd1ba613665f28f82d09c5a9f2166593ce6e5536614c69f327c81b9"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_story_jelly_sentence_demo/oled_story_words.h",
+    "bytes": 7178,
+    "sha256": "31e376664d66dc7182b17d2447a1b49477ba22675d9ae154e115914b6a4418d6"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_story_sentences.h",
+    "bytes": 29717,
+    "sha256": "2e7fef840bd1ba613665f28f82d09c5a9f2166593ce6e5536614c69f327c81b9"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_story_words.h",
+    "bytes": 7178,
+    "sha256": "31e376664d66dc7182b17d2447a1b49477ba22675d9ae154e115914b6a4418d6"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/oled_zh_words.h",
+    "bytes": 3048,
+    "sha256": "31fd06bafc7c603a7d0acf6b210a6229da5d4a97984cb7b9b9ef737b01b15312"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/README_oled_story_jelly.md",
+    "bytes": 1617,
+    "sha256": "f4056a13b578703719d1b9cd8c63c983251033860d657a1b7f8ad941c4a00a1f"
+  },
+  {
+    "path": "视频版闭环演示/OLED中文反馈/README_OLED中文方案.md",
+    "bytes": 2036,
+    "sha256": "1a5ed725e2a24d9f1b4aeb94d7acbc7f3807b5f5a96d4507dda115322cfcf86b"
+  },
+  {
+    "path": "视频版闭环演示/README.md",
+    "bytes": 1287,
+    "sha256": "41dcb636f9bf27460d08bc99cb94594977b59e0d2f830f613b78269e674824c3"
+  },
+  {
+    "path": "视频版闭环演示/手语短句识别/README_video_gesture.md",
+    "bytes": 2010,
+    "sha256": "f7ed2d56127af5f0686ba08b047ce6b6368395f199b0ca5a77a2da8285564fb3"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/finger_trigger_audio_feedback.py",
+    "bytes": 15208,
+    "sha256": "52c14897f9c2186ead8507ebb55e68967db342521c821e5454464a705a9b21f6"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/generate_signspeak_voice.py",
+    "bytes": 2860,
+    "sha256": "d303229e1b2c58bd6c3375e128e4476442fde0d116c760e10adcdab5cc3132ec"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/generate_signspeak_voice_sapi.py",
+    "bytes": 1747,
+    "sha256": "4984dbb8f2e4b10df484b686abf9227e9f2b3362fd5432483130e9fe931414c6"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/gesture_to_audio_demo.py",
+    "bytes": 9029,
+    "sha256": "d4534e9bfad6e96302fb3538f981619afe89036f1134f939dae40a13a1d6ca02"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/README_finger_trigger_audio_feedback.md",
+    "bytes": 1877,
+    "sha256": "13abeb444595561f7327a2bebd3ecf505a7298e90af457b9b5b95486e7e6f2b1"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/README_gesture_to_audio.md",
+    "bytes": 1818,
+    "sha256": "0e8338c497fb163a7299bc48042d0e1200ee3a36633de33cb7088b083ad89dd3"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/serial_forward_audio_control.py",
+    "bytes": 9137,
+    "sha256": "0301bbf099ef4e8b7c849b65cf4ad514954b62469ed9281d67a477c597565462"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/serial_forward_probe.py",
+    "bytes": 5237,
+    "sha256": "5879a706c85c56cb6bbb978d76776c4f8f22968ab847a86a4369e729c5a43076"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/shooting_controller.py",
+    "bytes": 5102,
+    "sha256": "7e07f2536141038b5b90af7b6ea93cd2f28cba2c78f032108e04c4ac092fd09d"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/shooting_controller_mother.py",
+    "bytes": 4419,
+    "sha256": "34918ff6b35f4c5a2d679d81a2b1342b29682b57057667e3cc455d5ee7c599fb"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/shooting_controller_v2.py",
+    "bytes": 5061,
+    "sha256": "ba03d98cebc20f223563f29199ae471780e644c9423a698dce751225e041b936"
+  },
+  {
+    "path": "视频版闭环演示/拍摄控制台/shooting_controller_v3.py",
+    "bytes": 5093,
+    "sha256": "d62a6f815586de591e24b0b21393329412759927ffa9e2e7dd9c0ea90e1f2c95"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/left_315m_text_tx/left_315m_text_tx.ino",
+    "bytes": 2593,
+    "sha256": "2c3c13eee566e94f3bc7982706e2fcb03e4f0c9be27bd55d477177528cd0b92f"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/left_315m_tx_full/left_315m_tx_full.ino",
+    "bytes": 3218,
+    "sha256": "7079e8cc319657e149fa856f6400b0a3ff435c64ca280b7ac8be33e4d86397e6"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/rf315_diag/left_315m_plain_tx/left_315m_plain_tx.ino",
+    "bytes": 790,
+    "sha256": "4270f881e1f85c9b70f80ddf901bcdce0f24d4ef1ec57606bba31efea5734c89"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/rf315_diag/right_315m_plain_rx/right_315m_plain_rx.ino",
+    "bytes": 1581,
+    "sha256": "8b6915e54166ee331582273cf3b8a29e5414faf5721c008e0d1b1470d8ffaff1"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_315m_ble_min_rx/right_315m_ble_min_rx.ino",
+    "bytes": 5776,
+    "sha256": "3f347e4c73264264b72e5f1efdb2d44ca288d0de0c43a2c02d38d94950929eaf"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_315m_text_rx_ble/right_315m_text_rx_ble.ino",
+    "bytes": 4084,
+    "sha256": "4cf9c43e0c090d21aa23fcc164bc847b6b1d9e9586c88eb960f0bf3e413f3256"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_ble_315m_master_full/oled_mother_lines.h",
+    "bytes": 13051,
+    "sha256": "80bcd54180888c4d0bf96cfd2a9b96a7856cd9c438c79d0a3d31af2da5dd0d74"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_ble_315m_master_full/right_ble_315m_master_full.ino",
+    "bytes": 6469,
+    "sha256": "e72a17036d92e16f0f3ba0cffe076fd2f1dec3151b919f01f1163f88ad824041"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_ble_oled_stable_full_sensors/oled_mother_lines.h",
+    "bytes": 13051,
+    "sha256": "80bcd54180888c4d0bf96cfd2a9b96a7856cd9c438c79d0a3d31af2da5dd0d74"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_ble_oled_stable_full_sensors/right_ble_oled_stable_full_sensors.ino",
+    "bytes": 7904,
+    "sha256": "2f03807e4f9e9be2a2de0911d9fcf10c448fa57c268f5c569ff616d55d3aee38"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_ble_oled_stable_full_sensors_blink3state/oled_mother_lines.h",
+    "bytes": 13051,
+    "sha256": "80bcd54180888c4d0bf96cfd2a9b96a7856cd9c438c79d0a3d31af2da5dd0d74"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_ble_oled_stable_full_sensors_blink3state/oled_salary_cat.h",
+    "bytes": 185740,
+    "sha256": "1906b28018bdea88d068535cab29635b0faaebb08ada544bcf03fe47a685968e"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_ble_oled_stable_full_sensors_blink3state/right_ble_oled_stable_full_sensors_blink3state.ino",
+    "bytes": 10111,
+    "sha256": "cbd24104ad0ff225047daa28a59d43e409dddd274fba9a3f1e884018db7a1d7b"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/right_ble_oled_stable_full_sensors_jelly_only/right_ble_oled_stable_full_sensors_jelly_only.ino",
+    "bytes": 1183,
+    "sha256": "755ec77c6b53efef828b44395d3fd6c424465d76c2686be8dbc6cbeadf9c70b5"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/salary_cat_oled_only/oled_salary_cat.h",
+    "bytes": 65870,
+    "sha256": "968f00fefe61d07165454a645240b746d9abea182e1057af407574b68b6f1ffa"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/salary_cat_oled_only/README.md",
+    "bytes": 2395,
+    "sha256": "93e9264f21c88b623b6f28cd000307a9840bb5fe2fb3c0c729e35406d908ce14"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/salary_cat_oled_only/salary_cat_oled_only.ino",
+    "bytes": 66505,
+    "sha256": "6ca98533872a8bdce1a1a800fea2be17dd2fda60e0223e552dc4b1b0fd4182e2"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/arduino/salary_cat_oled_only_backup_clearDisplay.ino",
+    "bytes": 66307,
+    "sha256": "fa0f35f9f1af999a105b6809cb38cbd42dc85077e730f3790e15622cf2855a4e"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/collector/collect_deep_gesture_tcp.py",
+    "bytes": 7603,
+    "sha256": "cb1ec0bd4ca23fdbd210257b68fce721c4772b28ae13740aafc69ba56d68b2b8"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/collector/dataset_deep_augmented_20260601_082820/README_augmented_dataset.md",
+    "bytes": 286,
+    "sha256": "16347111391038cf59d6b512b646b78acf1a7ddbc906488aebc7ee3af58677df"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/collector/gesture_labels_deep.json",
+    "bytes": 104,
+    "sha256": "5653657e051f7f1f975ea4d57c51c6618ccd7c522f44ccf1db38a62bfd8e115b"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/collector/make_augmented_dataset_deep.py",
+    "bytes": 8208,
+    "sha256": "000b6d22a54e441e8bcfa9b905eefe704f08b3e7f5b82f9390a8b46f3d412642"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/collector/train_deep_gesture_model.py",
+    "bytes": 2367,
+    "sha256": "fc4309ab4bfc806c0f1a6d45d08eb50c62887b9883e361e22216fb448c4386a7"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/collector/train_deep_gesture_model_augmented.py",
+    "bytes": 3766,
+    "sha256": "6bdfa24f8633d4d0163cf871c8776f7edaee26fbd33e85538182d14092644a54"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/collector/train_sequence_deep_model.py",
+    "bytes": 3030,
+    "sha256": "45ab1b98cb3e2ab0a7fddc45a205c7325861be55c74c0468140176f9980ea22c"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/control/blink3state_oled_control.py",
+    "bytes": 2367,
+    "sha256": "7ca669b3c1f9bb886e2695249498079ae983e7cded2784139579dd7728d0957e"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/control/sign_predict_audio_control.py",
+    "bytes": 6457,
+    "sha256": "d49fc08979eb8c129584a3de7473833cbcebe69ef6448ac38270f5675c23d360"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/control/tcp_dual_hand_probe.py",
+    "bytes": 3844,
+    "sha256": "385a958e9af8210a2ae8efa885761ba84366bf9909ef0cadc3c7d57dcc82aa51"
+  },
+  {
+    "path": "视频版闭环演示/深度学习手语闭环/README.md",
+    "bytes": 910,
+    "sha256": "7690d1601a1b81f0c31b21703bb168045c8c9545f0b8f5112b3445f05f5c997b"
+  }
+]

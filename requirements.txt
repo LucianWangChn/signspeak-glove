@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+bleak
+pyserial
+torch
+transformers
+librosa
+soundfile
+sounddevice
+tqdm
+requests
+websocket-client
+flask
